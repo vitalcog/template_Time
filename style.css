@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+
+#bucket {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+}
+
+#bucket header {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.8em;
+}
+
+.infoRow {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.infoRow div {
+  width: 20%;
+  margin: 0 10%;
+}
+
+.picRow {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin-top:
+}
+
+.picRow img {
+  width: 20%;
+  margin: 0 10%;
+}
